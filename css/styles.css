@@ -1,0 +1,174 @@
+#firstsection {
+
+
+    
+    background-color: #FAEED1;
+    color: black;
+  }
+
+  
+.navtxt1 {
+    text-align: center;
+    font-family: 'Audiowide';
+    padding-bottom: 10px;
+    color: black;
+    font-style: bold;
+    }
+
+  .nav-item {
+font-family: 'Balsamiq Sans';
+    font-size: 1.3rem;
+    color: black;
+    font-style: bold;
+    padding-left: 15px;
+  }
+
+  
+
+.underline-hover {
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    transition: border-bottom 0.3s ease-in-out;
+}
+
+.underline-hover:hover {
+    border-bottom: 2px solid black; /* Adjust the color and thickness as needed */
+}
+
+
+
+  @media screen and (max-width: 768px) {
+.coni1 {
+    width: 300px;
+}
+
+}
+/* second */
+#secondsection {
+background-color: #fff;
+  padding-bottom: 20px;
+}
+
+#secondsection h1 {
+    font-family: 'Audiowide';
+    font-size: 1.5rem;
+}
+
+#secondsection p {
+    font-family: 'Balsamiq Sans';
+}
+td h5 {
+  font-size: 1rem;
+  font-style: bold;
+}
+
+td p {
+  font-size: 1rem;
+  padding-top: 10px;
+}
+
+.image1 {
+  border: 1px solid yellow;
+  margin-top: 10px;
+  display: block;
+}
+
+
+
+.secondi p {
+    font-size: 0.8re;
+    color: gray;
+    font-family: 'Balsamiq Sans';
+}
+
+.enipic {
+    border-radius: 100%;
+    border: 1px solid black;
+}
+
+/* third */
+
+#thirdsevtion {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    background-color: #F7EFE5;
+}
+
+#thirdsevtion a {
+    padding-bottom: 5px;
+}
+#subscribe {
+    background-color: #F5F5F5;
+    padding-bottom: 40px;
+    justify-content: end;
+    padding-top: 20px;
+}
+
+.ing {
+    margin-top: 10px;
+font-family: cursive;
+}
+
+#contact {
+    background-color: #F0ECE5;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+#contact h1 {
+    font-size: 1.4rem;
+    color: black;
+}
+  
+
+.icconstyl {
+    color: #FFE194;
+}
+
+.icconstyl:hover {
+    color: #071952;
+}
+
+.icconsty2 {
+    padding-top: 10px;
+    color: #FFE194;
+}
+
+.icconsty2:hover {
+    color: #071952;
+}
+
+.icconsty3 {
+    color: #FFE194;
+    padding-top: 10px;
+} 
+
+.icconsty3:hover {
+    color: #071952;
+}
+
+.txt1i {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.txt1i:hover {
+    color: #071952;
+}
+
+#lasstsection {
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+#lasstsection h1 {
+    font-size: 1.4rem;
+    font-style: bold;
+}
+
+.icon-row {
+    justify-content: center;
+    padding-left: 30px;
+}
